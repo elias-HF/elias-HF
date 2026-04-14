@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ----- Hola, soy un estudiante de ingieneria en sistemas 
 
 actualmente :
